@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
   <img src="https://img.shields.io/badge/Linux-Kubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub">
