@@ -18,8 +18,8 @@
 
 ## 👤 About me
 
-- 🎓 Studying **network & systems administration** (2-year IT degree in France): building, securing and troubleshooting company networks
-- 💼 Background in **economics & management** plus IT: I like mixing the technical side with the business side
+- 🎓 Studying **network & systems administration** : building, securing and troubleshooting company networks
+- 💼 Background in **economics & management** plus IT: I love learning new things
 - 🔐 Passionate about **cybersecurity** and network security
 - 📍 Based in France
 - 🤝 Looking for internship / work-study opportunities
