@@ -1,6 +1,6 @@
 <p align="right">🌐 <b>EN</b> | <a href="README-fr.md">FR</a></p>
 
-<h1 align="center">Hi i'm Okamn</h1>
+<h1 align="center">Okamn</h1>
 
 <p align="center">
   <b>Networking &amp; cybersecurity student</b>
