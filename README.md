@@ -1,6 +1,6 @@
 <p align="right">🌐 <b>EN</b> | <a href="README-fr.md">FR</a></p>
 
-<h1 align="center">Hazar</h1>
+<h1 align="center">Hi i'm Okamn</h1>
 
 <p align="center">
   <b>Networking &amp; cybersecurity student</b>
@@ -42,9 +42,5 @@
 
 ## 🚀 Featured project
 
-**[Enterprise-Style Network Lab](https://github.com/YOUR-USERNAME/packet-tracer-enterprise-lab)**
+**[Enterprise-Style Network Lab]([https://github.com/YOUR-USERNAME/packet-tracer-enterprise-lab](https://github.com/Okammn/Network-Lab))**
 A small company network in Cisco Packet Tracer: 4 VLANs, router-on-a-stick, DHCP/DNS/Web/FTP servers and a guest isolation ACL, fully documented with configs and screenshots.
-
-## 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
