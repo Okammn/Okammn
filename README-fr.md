@@ -1,6 +1,6 @@
 <p align="right">🌐 <a href="README.md">EN</a> | <b>FR</b></p>
 
-<h1 align="center">Hazar</h1>
+<h1 align="center">Okamn</h1>
 
 <p align="center">
   <b>Étudiant en réseaux &amp; cybersécurité</b>
