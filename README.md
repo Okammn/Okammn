@@ -28,7 +28,7 @@
 | Area | Topics |
 |------|--------|
 | **Networking** | VLANs, 802.1Q trunking, inter-VLAN routing (router-on-a-stick), subnetting (/26 splits), DHCP & DNS, ACLs, Cisco IOS CLI |
-| **Systems** | Linux (Kubuntu), command line, network configuration with `nmcli` |
+| **Systems** | Linux (Kali), command line, network configuration with `nmcli` |
 | **Tools** | Cisco Packet Tracer, Git & GitHub, Markdown documentation |
 
 ## 🔎 Currently learning / interested in
