@@ -42,9 +42,6 @@
 
 ## 🚀 Projet à la une
 
-**[Enterprise-Style Network Lab](https://github.com/YOUR-USERNAME/packet-tracer-enterprise-lab)**
+**[Enterprise-Style Network Lab]([https://github.com/Okammn/packet-tracer-enterprise-lab](https://github.com/Okammn/Network-Lab))**
 Un petit réseau d'entreprise sous Cisco Packet Tracer : 4 VLAN, router-on-a-stick, serveurs DHCP/DNS/Web/FTP et ACL d'isolation des visiteurs, documenté avec les configs et des captures d'écran.
 
-## 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
