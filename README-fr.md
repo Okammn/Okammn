@@ -19,7 +19,7 @@
 ## 👤 À propos de moi
 
 - 🎓 Étudiant en **BTS SIO, option SISR** (Solutions d'Infrastructure, Systèmes et Réseaux)
-- 💼 Parcours en **économie-gestion** puis en informatique : j'aime relier le côté technique et le côté business
+- 💼 Parcours en **économie-gestion** puis en informatique : j'aime apprendre de nouvelles choses
 - 🔐 Passionné par la **cybersécurité** et la sécurité des réseaux
 - 📍 Basé en France
 - 🤝 À la recherche d'un stage / d'une alternance
